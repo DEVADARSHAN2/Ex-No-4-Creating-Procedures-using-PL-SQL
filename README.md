@@ -1,7 +1,7 @@
 # Ex. No: 4 Creating Procedures using PL/SQL
 
 ## AIM: To create a procedure using PL/SQL.
-## Date:25/09/23
+### Date:25/09/23
 
 ### Steps:
 1. Create employee table with following attributes (empid NUMBER, empname VARCHAR(10), dept VARCHAR(10),salary NUMBER);
@@ -41,4 +41,4 @@ CREATE OR REPLACE PROCEDURE emp_data AS
 
 
 ### Result:
-THE PROGRAM HAS BEEN IMPLEMENTED SUCCESSFULLY
+THE PROGRAM HAS BEEN IMPLEMENTED SUCCESSFULLY.
